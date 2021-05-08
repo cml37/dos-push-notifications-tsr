@@ -4,7 +4,7 @@
 * Feature code excerpts from [this Open Watclock example](https://www.vcfed.org/forum/forum/technical-support/vintage-computer-programming/23586-tsr-programs-with-open-watcom?p=304280#post304280)
 
 ## Building
-1. Download and install Open Watcom
+1. Download and install Open Watcom 1.9
 2. Download and install NASM
 3. From there, it's just `wmake` which will produce a binary called `tsrpush.exe`
 

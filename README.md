@@ -19,7 +19,7 @@ Simple!
 1. Just type `tsrpush.exe`
 
 ## Testing
-See the `send.py` script in the test directory.  Change the broadcast address to that of your network and the message accordingly.  Run it, and you will see a push message in MS-DOS.
+See the `send_message.py` script in the test directory.  Change the broadcast address to that of your network and the message accordingly.  Run it, and you will see a push message in MS-DOS.
 
 ## Known Issues
 1. Will not work with all programs resident (uses pretty primitive screen control)
